@@ -1,0 +1,12 @@
+c:\users\paul\documents\visual studio 2012\Projects\TransactionBe2Bill\TransactionBe2Bill\bin\Debug\TransactionBe2Bill.exe.config
+c:\users\paul\documents\visual studio 2012\Projects\TransactionBe2Bill\TransactionBe2Bill\bin\Debug\TransactionBe2Bill.exe
+c:\users\paul\documents\visual studio 2012\Projects\TransactionBe2Bill\TransactionBe2Bill\bin\Debug\TransactionBe2Bill.pdb
+c:\users\paul\documents\visual studio 2012\Projects\TransactionBe2Bill\TransactionBe2Bill\obj\Debug\TransactionBe2Bill.exe
+c:\users\paul\documents\visual studio 2012\Projects\TransactionBe2Bill\TransactionBe2Bill\obj\Debug\TransactionBe2Bill.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\TransactionBe2Bill\TransactionBe2Bill\obj\Debug\TransactionBe2Bill.csprojResolveAssemblyReference.cache
+D:\Projets\Modz\TransactionBe2Bill\TransactionBe2Bill\bin\Debug\TransactionBe2Bill.exe.config
+D:\Projets\Modz\TransactionBe2Bill\TransactionBe2Bill\obj\Debug\TransactionBe2Bill.exe
+D:\Projets\Modz\TransactionBe2Bill\TransactionBe2Bill\obj\Debug\TransactionBe2Bill.pdb
+D:\Projets\Modz\TransactionBe2Bill\TransactionBe2Bill\bin\Debug\TransactionBe2Bill.exe
+D:\Projets\Modz\TransactionBe2Bill\TransactionBe2Bill\bin\Debug\TransactionBe2Bill.pdb
+D:\Projets\Modz\TransactionBe2Bill\TransactionBe2Bill\obj\Debug\TransactionBe2Bill.csprojResolveAssemblyReference.cache
